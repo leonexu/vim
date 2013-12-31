@@ -1,0 +1,1 @@
+csv.vim: call delete('/home/xling/.vim/ftplugin/csv.vim')|call delete('/home/xling/.vim/doc/ft-csv.txt')|call delete('/home/xling/.vim/syntax/csv.vim')|call delete('/home/xling/.vim/ftdetect/csv.vim')|call delete('/home/xling/.vim/plugin/csv.vim')
